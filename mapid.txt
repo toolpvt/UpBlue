@@ -76,7 +76,7 @@
 75: Khe núi tử thần
 76: Núi đá
 77: Rừng đá
-78: Lãnh  địa Fize
+78: Lãnh địa Fize
 79: Núi khỉ đỏ
 80: Núi khỉ vàng
 81: Hang quỷ chim
@@ -189,3 +189,9 @@
 188: Cereal
 189: Thành phố Chết
 190: Vườn Carot
+191: Vùng đất băng
+192: Vường Hoa
+193: Vampa
+194: Tường Thành 1
+195: Tường Thành 2
+196: Sàn Đấu Thần

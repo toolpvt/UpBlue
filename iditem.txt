@@ -1119,7 +1119,7 @@
 1118: Quạt ba tiêu
 1119: Gậy Paparonis
 1120: Kiếm Majn Salsa
-1121: Cải trang Super Baby Vegeta
+1121: CT  Super Baby Vegeta
 1122: Pet Ưng Hỏa
 1123: Huân chương
 1124: Thảo dược
@@ -1224,7 +1224,7 @@
 1223: Ngọc Rồng Siêu Cấp 7 sao
 1224: Hộp Quà Ngọc Rồng Siêu Cấp
 1225: Hộp Quà Ngọc Rồng Siêu Cấp
-1226: Trunks Xeno Super Saiyan God
+1226: Trunks Xeno God
 1227: Zoro gear 5
 1228: Zoro gear 5 Pro
 1229: Pet Blue Dragon
@@ -1232,49 +1232,49 @@
 1231: Pet Shadow Dragon 
 1232: Hộp quà hit
 1233: Xích Viêm
-1234: Bảo Ngọc Tĩnh Khí  
-1235: Bảo Ngọc Khí Đạo  
-1236: Bảo Ngọc Dẫn Lực  
-1237: Bảo Ngọc Lưu Tốc  
-1238: Bảo Ngọc Lam Khí  
-1239: Bảo Ngọc Sinh Lực  
-1240: Bảo Ngọc Huyết Tâm  
-1241: Bảo Ngọc Trường Thể  
-1242: Bảo Ngọc Bền Bỉ  
-1243: Bảo Ngọc Hồng Tâm  
-1244: Bảo Ngọc Sát Khí  
-1245: Bảo Ngọc Cuồng Nộ  
-1246: Bảo Ngọc Công Lực  
-1247: Bảo Ngọc Tăng Tốc  
-1248: Bảo Ngọc Chiến Thần  
-1249: Bảo Ngọc Hộ Giáp  
-1250: Bảo Ngọc Phòng Thủ  
-1251: Bảo Ngọc Chống Đỡ  
-1252: Bảo Ngọc Vững Chân  
+1234: Bảo Ngọc Tĩnh Khí 
+1235: Bảo Ngọc Khí Đạo 
+1236: Bảo Ngọc Dẫn Lực 
+1237: Bảo Ngọc Lưu Tốc 
+1238: Bảo Ngọc Lam Khí 
+1239: Bảo Ngọc Sinh Lực 
+1240: Bảo Ngọc Huyết Tâm 
+1241: Bảo Ngọc Trường Thể 
+1242: Bảo Ngọc Bền Bỉ 
+1243: Bảo Ngọc Hồng Tâm 
+1244: Bảo Ngọc Sát Khí 
+1245: Bảo Ngọc Cuồng Nộ 
+1246: Bảo Ngọc Công Lực 
+1247: Bảo Ngọc Tăng Tốc 
+1248: Bảo Ngọc Chiến Thần 
+1249: Bảo Ngọc Hộ Giáp 
+1250: Bảo Ngọc Phòng Thủ 
+1251: Bảo Ngọc Chống Đỡ 
+1252: Bảo Ngọc Vững Chân 
 1253: Bảo Ngọc Hộ Mệnh
-1254: Nguyệt Ấn Bảo Ngọc Tĩnh Khí  
-1255: Nguyệt Ấn Bảo Ngọc Khí Đạo  
-1256: Nguyệt Ấn Bảo Ngọc Dẫn Lực  
-1257: Nguyệt Ấn Bảo Ngọc Lưu Tốc  
-1258: Nguyệt Ấn Bảo Ngọc Lam Khí  
-1259: Nhật Ấn Bảo Ngọc Sinh Lực  
-1260: Nhật Ấn Bảo Ngọc Huyết Tâm  
-1261: Nhật Ấn Bảo Ngọc Trường Thể  
-1262: Nhật Ấn Bảo Ngọc Bền Bỉ  
-1263: Nhật Ấn Bảo Ngọc Hồng Tâm  
-1264: Tinh Ấn Bảo Ngọc Sát Khí  
-1265: Tinh Ấn Bảo Ngọc Cuồng Nộ  
-1266: Tinh Ấn Bảo Ngọc Công Lực  
-1267: Tinh Ấn Bảo Ngọc Tăng Tốc  
+1254: Nguyệt Ấn Bảo Ngọc Tĩnh Khí 
+1255: Nguyệt Ấn Bảo Ngọc Khí Đạo 
+1256: Nguyệt Ấn Bảo Ngọc Dẫn Lực 
+1257: Nguyệt Ấn Bảo Ngọc Lưu Tốc 
+1258: Nguyệt Ấn Bảo Ngọc Lam Khí 
+1259: Nhật Ấn Bảo Ngọc Sinh Lực 
+1260: Nhật Ấn Bảo Ngọc Huyết Tâm 
+1261: Nhật Ấn Bảo Ngọc Trường Thể 
+1262: Nhật Ấn Bảo Ngọc Bền Bỉ 
+1263: Nhật Ấn Bảo Ngọc Hồng Tâm 
+1264: Tinh Ấn Bảo Ngọc Sát Khí 
+1265: Tinh Ấn Bảo Ngọc Cuồng Nộ 
+1266: Tinh Ấn Bảo Ngọc Công Lực 
+1267: Tinh Ấn Bảo Ngọc Tăng Tốc 
 1268: Tinh Ấn Bảo Ngọc Chiến Thần
 1269: Hồn Đệ Tử Gomoh
 1270: Ngọc Phép
 1271: Rương Bạc
 1272: Tinh Thạch
-1273: Bùa Bảo Hộ  
+1273: Bùa Bảo Hộ 
 1274: Rương Vàng
 1275: Mảnh Vỡ Bảo Ngọc
-1276: Súng Gamma 1  
+1276: Súng Gamma 1 
 1277: Súng Gamma 2
 1278: Phượng Lam Thiên
 1279: Túi Mảnh Vỡ Bảo Ngọc
@@ -1318,9 +1318,9 @@
 1317: Găng Thiên Sứ
 1318: Găng Thiên Sứ
 1319: Găng Thiên Sứ
-1320: Giầy Thiên Sứ
-1321: Giầy Thiên Sứ
-1322: Giầy Thiên Sứ
+1320: Giày Thiên Sứ
+1321: Giày Thiên Sứ
+1322: Giày Thiên Sứ
 1323: Nhẫn Thiên Sứ
 1324: Nhẫn Thiên Sứ
 1325: Nhẫn Thiên Sứ
@@ -1473,3 +1473,388 @@
 1472: Bánh Trung Thu 7 Sao
 1473: Ánh Trăng Tròn
 1474: Thỏ Con
+1475: Cải Trang Granola Hắc Ám
+1476: Zamala NM
+1477: Hearts Godslayer XD
+1478: CT Hằng Nga Hồng Diễm
+1479: Demigra HLW
+1480: Kefla RNM
+1481: Goku Ma Sói
+1482: Dược lê siêu lớn
+1483: Hộp quà Granolal
+1484: Mảnh Granolal
+1485: Kính Ngắm
+1486: Ngọc Thù Hận
+1487: Chi Chi Cô Dâu
+1488: Chú Rể Vegeta
+1489: Thể Đổi Tên Đặc Biệt
+1490: Vegeta Dracula
+1491: Chổi bay phù thuỷ
+1492: Gậy Bí Ngô
+1493: Pet Vua Bí Ngô Địa Ngục
+1494: Ngọc bí 1 sao
+1495: Ngọc bí 2 sao
+1496: Ngọc bí 3 sao
+1497: Ngọc bí 4 sao
+1498: Ngọc bí 5 sao
+1499: Ngọc bí 6 sao
+1500: Ngọc bí 7 sao
+1501: Linh Hồn Bí Ngô
+1502: Trái Cấm Halloween
+1503: Thanh Socola
+1504: Huyết Dược Halloween
+1505: Súp Bí Ngô
+1506: Kẹo Huyết
+1507: Phô Mai Ma Quái
+1508: Hộp Quà Bí Ngô
+1509: Cánh Thần Bí
+1510: Burny
+1511: Cinder King
+1512: Pet Tiểu Tử Thần
+1513: Pet Miêu Linh Ma Thuật
+1514: Toppo
+1515: Bánh Cầu Vồng
+1516: Chi Chi Cô Dâu
+1517: Pan VIP
+1518: Goku Chú Rễ
+1519: Gohan Zombie
+1520: Mèo đen phù thuỷ
+1521: Giỏ đựng
+1522: Giáy trang trí Halloween
+1523: Giỏ đựng ngọc bí
+1524: Hộp kẹo Ma Quỷ
+1525: Pet Chú Hề Bí Ngô
+1526: Kẹo mù Hallowen
+1527: Giỏ kẹo Bí Ngô
+1528: Bó Hoa Ma Quỷ
+1529: Chổi bay
+1530: Đầu lâu
+1531: Mắt Quỷ
+1532: Thịt thối
+1533: Hồn ma fide vàng
+1534: Hồn ma cold vàng
+1535: Pet Rồng Xương
+1536: Pet Mưa bay
+1537: Pet Ma Tốc Độ
+1538: Vé Vip
+1539: Ma Vương Nhí Picolo
+1540: Cánh Hắc Ám
+1541: CT Zaiko
+1542: Kiếm Z Vip
+1543: Tô phở tái nhiều hành
+1544: Tô phở nạm 2 quẩy
+1545: Tô phở tái bò viên
+1546: Lon tài lộc
+1547: Thòng lọng
+1548: Pet Cậu Vàng
+1549: Cơm nguội + Quẩy
+1550: Tô phở không người lái
+1551: Balo Hỏa Kích
+1552: Ván Bay Hộp Bút
+1553: Cặp Sách Minh Trí
+1554: Lá trà tươi
+1555: Nia tre
+1556: Que tre
+1557: Hoa Cúc
+1558: Túi trà khô
+1559: Hộp Trà
+1560: Hộp Trà Hoa Cúc
+1561: Bó Hoa Hồng 
+1562: Cay kéo
+1563: Thầy giáo quy lão
+1564: Cải trang đệ tử Tí
+1565: Cải trang đệ tử Dần
+1566: Cải trang đệ tử Sửu
+1567: Mèo Bút Chì
+1568: Miu Thủ Khoa
+1569: Thẻ Khỉ Oozaru Cấp 1
+1570: Thiệp Chúc
+1571: Trunks Học Đường
+1572: Bong Bóng sale
+1573: Tiên Shinhan
+1574: Black Goku
+1575: Black Goku Rose
+1576: Cánh Phượng Hoàng Băng
+1577: Thẻ Khỉ Oozaru Cấp 2
+1578: Thẻ Khỉ Oozaru Cấp 3
+1579: Ngọc Đột Phá
+1580: Tẩy Thạch
+1581: Vegito Giáng Sinh
+1582: Ngọc Rồng Băng 1 Sao
+1583: Ngọc Rồng Băng 2 Sao
+1584: Ngọc Rồng Băng 3 Sao
+1585: Ngọc Rồng Băng 4 Sao
+1586: Ngọc Rồng Băng 5 Sao
+1587: Ngọc Rồng Băng 6 Sao
+1588: Ngọc Rồng Băng 7 Sao
+1589: Hộp quà băng
+1590: Hộp quà Noel
+1591: Túi đựng quà
+1592: Bông tuyết
+1593: Bánh Người Tuyết
+1594: Bánh Quy Socola
+1595: Bánh Quy Socola Đen
+1596: Chuông Giáng Sinh
+1597: Quả Thông
+1598: Kẹo Gậy
+1599: Mũ Tuần Lộc
+1600: Thạch băng nhỏ
+1601: Thạch bằng vừa
+1602: Thạch băng lớn
+1603: Máy tạo tuyết
+1604: Pet Thiên Thần Băng
+1605: Pet Tuần Lộc Giáng Sinh
+1606: Dù Băng
+1607: Trượng Tuyết
+1608: Ván Trượt Tuyết
+1609: Hộp Diêm Thống Nhất
+1610: Que diêm
+1611: Que diêm bùng cháy
+1612: Ông Già Noel Goku
+1613: Pet Cánh Cụt
+1614: ChiChi Tuần Lộc
+1615: Bông Băng golden
+1616: Goku God
+1617: Pet Tùng Lộc
+1618: Pet Ông già noel
+1619: Ván bay cay thông
+1620: Gậy Giáng Sinh
+1621: Tuần lộc kéo xe
+1622: Thẻ Đội trưởng Vàng
+1623: Mảnh Rồng thần Namếc
+1624: Ông Già Noel Vegeta
+1625: Mảnh Gomah
+1626: Mảnh Demigra
+1627: Mảnh unimate hearts
+1628: Mảnh Zamala
+1629: Hủ Vàng 
+1630: Hồng Ngọc
+1631: Pet Bính Ngọ
+1632: Mã
+1633: Đáo
+1634: Thành
+1635: Công
+1636: Day cương
+1637: Cành Đào
+1638: Cành Mai
+1639: Cờ Đèn Lồng Hoàng Kim
+1640: Hộp quà xuân
+1641: Nước
+1642: Pet Hỏa Tiểu Long
+1643: Pet Tử Diễm Long
+1644: Pet Thiên Hỏa Long
+1645: Túi Hạt Giống Mai
+1646: Túi Hạt Giống Đào
+1647: GOKU BÍNH NGỌ 2026
+1648: Cải trang Bunma rực rỡ
+1649: Cải trang Bunma thanh lịch
+1650: CT Lý Tiểu Nương Rực Rỡ
+1651: CT Goku SSJ 4 Red
+1652: Pet Phong Lân
+1653: Pet FL Phong Lân
+1654: Sa Tăng
+1655: Kimono 
+1656: Kimono
+1657: Kimono
+1658: Cánh Hoàng Kim
+1659: Pet Mã Đáo
+1660: Pet Chiến Mã
+1661: Cờ đèn lồng
+1662: Pet Mã Nhi
+1663: Cờ Mã Đáo Thành Công
+1664: Goku du xuân
+1665: Chi Chi du xuân
+1666: Pet Ngựa đỏ
+1667: Pet Ngựa xám
+1668: Pet Ngựa trắng
+1669: Cờ bao lì xì đồng vàng
+1670: Cờ Lãng Lãng
+1671: Cờ Nro Blue
+1672: Bánh Kem 1 sao
+1673: Bánh Kem 2 sao 
+1674: Pet Niên
+1675: Hoa Tulip
+1676: Broly Super Saiyan SSJ3
+1677: Ván Bay May Hồng
+1678: Cờ Hào Quang Tym Hồng
+1679: Pet Thiên Sứ Fide
+1680: Cờ Kẹo Mút 
+1681: Cờ Uyển Đao
+1682: Pet Cáo Hồ Mỵ
+1683: Băng Keo
+1684: Thiệp Chúc
+1685: Bó Hoa 
+1686: Bút Màu
+1687: Cay Kéo
+1688: Giáy Màu
+1689: Giáy Màu Trái Tym
+1690: Hoa Hồng
+1691: Lời Chúc 8/3
+1692: Bó hoa tulip hồng
+1693: Hộp socola trái tim 8/3
+1694: Donut phủ đường hồng
+1695: Socola trái tim trong cupcake
+1696: Cupcake dâu kem hồng
+1697: Thanh socola trái tim
+1698: Kẹo mút 8/3 hình trái tim
+1699: Hộp Quà 8/3
+1700: Pet Chopper
+1701: Hạt Giống Hoa Tulip
+1702: Vòng Halo Cấp 1
+1703: Vòng Halo Cấp 2
+1704: Vòng Halo Cấp 3
+1705: Vòng Halo Cấp 4
+1706: Vòng Halo Cấp 5
+1707: Mảnh Vỡ Halo
+1708: Máy Dò Ánh Sáng
+1709: Đá Ánh Sáng Halo
+1710: Pha Lê Thường
+1711: Pha Lê Tốt
+1712: Pha Lê Hiếm
+1713: Pha Lê Huyền Thoại
+1714: Pha Lê Truyền Thuyết
+1715: Mảnh Pha Lê
+1716: Vé Ghép Pha Lê
+1717: Đá Cường Hoá
+1718: Đá Xoá Thuộc Tính
+1719: Thịt Sói Non
+1720: Cà Rốt
+1721: Thịt Cymbal Viên
+1722: Súp Tuyết 
+1723: Bánh Quy Năng Lượng
+1724: Súp Năng Lượng
+1725: Bọ Cạp Giòn Cay
+1726: Lương Khô Chiến Binh
+1727: Bùa trí Tuệ
+1728: Tinh Thể Rồng
+1729: Vé Ghép Ngọc Rồng
+1730: Bông Tai Potara Thường
+1731: Bông Tai Potara Siêu Cấp
+1732: Bông Tai Potara Tối Thượng
+1733: Bông Tai Potara Thần Cấp
+1734: Bông Tai Potara Huyền Thoại
+1735: Vỏ Bông Tai
+1736: Ngọc Potara
+1737: Capsule Cải Trang
+1738: Capsule Phụ Kiện Bay
+1739: Capsule Đeo Lưng
+1740: Capsule Vòng Ánh Sáng
+1741: Capsule Pet
+1742: Rương Thần Huỷ Diệt
+1743: Radar Cơ Bản
+1744: Radar Hoàn Thiện
+1745: Radar Tập Sự
+1746: Radar Chiến Binh
+1747: Radar Siêu Cấp
+1748: Radar Tinh Anh
+1749: Radar Bán Thần
+1750: Nhẫn Linh Mộc
+1751: Nhẫn Tinh Thể
+1752: Nhẫn Tập Sự
+1753: Nhẫn Chiến Binh
+1754: Nhẫn Siêu Cấp
+1755: Nhẫn Tinh Anh
+1756: Nhẫn Bán Thần
+1757: Dây Chuyền Sơ Cấp
+1758: Dây Chuyền Cổ Đại
+1759: Dây Chuyền Tập Sự
+1760: Dây Chuyền Chiến Binh
+1761: Dây Chuyền Siêu Cấp
+1762: Dây Chuyền Tinh Anh
+1763: Dây Chuyền Bán Thần
+1764: Kính Skoutor Sơ Khai
+1765: Kính Skoutor Cải Tiến
+1766: Kính Skoutor Tập Sự
+1767: Kính Skoutor Chiến Binh
+1768: Kính Skoutor Siêu Cấp
+1769: Kính Skoutor Tinh Anh
+1770: Kính Skoutor Bán Thần
+1771: Pin Radar Dò Thưởng
+1772: Thần tiễn
+1773: Thú cưỡi Sư Tử Đen
+1774: Lệnh bài thành cổ
+1775: Bụi tre
+1776: Bánh dầy
+1777: Bánh dầy
+1778: Chả lụa
+1779: Bánh chưng Lang Liêu
+1780: Cánh sấm sét
+1781: Cánh sấm sét hoàng kim
+1782: Rương vàng 
+1783: Vòng Trống Đồng
+1784: Super broly SSJ4
+1785: Super broly Ultra 
+1786: Super broly Hắc Hoá
+1787: Nước Thánh Krin
+1788: CT Zeno
+1789: CT Thần Zeno
+1790: CT Thần Zeno
+1791: CT Thần Zeno
+1792: Slime Tinh Linh
+1793: Dơi Ngân Hà
+1794: Cáo Vệ Binh
+1795: Cú Thiên Giới
+1796: Mộc Long
+1797: Pet Độc Quyền
+1798: Ngọc Rồng Namec 1 Sao
+1799: Ngọc Rồng Namec 2 Sao
+1800: Ngọc Rồng Namec 3 Sao
+1801: Ngọc Rồng Namec 4 Sao
+1802: Ngọc Rồng Namec 5 Sao
+1803: Ngọc Rồng Namec 6 Sao
+1804: Ngọc Rồng Namec 7 Sao
+1805: Ngọc Rồng Ma Giới 1 Sao
+1806: Ngọc Rồng Ma Giới 2 Sao
+1807: Ngọc Rồng Ma Giới 3 Sao
+1808: Ngọc Rồng Namec 4 Sao
+1809: Ngọc Rồng Namec 5 Sao
+1810: Ngọc Rồng Namec 6 Sao
+1811: Ngọc Rồng Namec 7 Sao
+1812: Đá Xoá Thuộc Tính VIP
+1813: Giáp tập luyện cấp 4
+1814: Giáp tập luyện cấp 5
+1815: Thú Cưới Độc Quyền
+1816: Thiên Ưng
+1817: Đeo lưng Độc Quyền
+1818: Kiếm Z Đặc Biệt
+1819: DH Youtube
+1820: DH Top Server
+1821: DH Bất Bại
+1822: DH Trùm Cuối
+1823: DH 01 Vip
+1824: DH 02 Vip
+1825: DH 03 Vip
+1826: DH 04 Vip
+1827: DH Nông Dân Ưu Tú
+1828: DH Trâu Cày Huyền Thoại
+1829: DH Police Green
+1830: DH Vua Dưa Hấu Bãi Biển
+1831: DH Thiếu Nhi
+1832: DH Chiến Binh Bãi Biển
+1833: DH Mùa Hè Không Nóng
+1834: DH Thợ Săn Kho Báu
+1835: DH Ông Trùm Kho Báu
+1836: DH Ông Trùm Carot
+1837: DH Trung Thu
+1838: DH Kim Thân La Hán
+1839: DH Phong Ba
+1840: DH Cho Kẹo Hay Bị Ghẹo
+1841: DH Thánh Bắt Chó
+1842: DH Bé Ngoan
+1843: DH Chiến Binh
+1844: DH Christmas
+1845: DH Mùa Đông Không Lạnh
+1846: DH Quay Tay Hộ Pháp
+1847: DH Vui Xuân
+1848: DH Em Xinh Em Đẹp
+1849: DH Chiến Binh Hồng
+1850: DH Chiến Binh Sao Đen
+1851: DH Trùm Cuối Vũ Trụ
+1852: DH Nín
+1853: DH Uống Nước Nhớ Nguồn
+1854: Ván Bay VF3
+1855: Ván Bay VF9
+1856: Goku Ultra
+1857: Túi Mảnh Vỡ Bông Tai Cấp 2
+1858: Túi Mảnh Vỡ Bông Tai Cấp 3
+1859: Túi Tinh Thể Linh Hồn
