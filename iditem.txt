@@ -1858,3 +1858,4 @@
 1857: Túi Mảnh Vỡ Bông Tai Cấp 2
 1858: Túi Mảnh Vỡ Bông Tai Cấp 3
 1859: Túi Tinh Thể Linh Hồn
+1860: Cánh Phượng hoàng
