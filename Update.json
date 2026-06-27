@@ -1,6 +1,6 @@
 {
-  "Version": "4.0",
-  "Notification": "Fix Không tìm thấy đường đi thu đậu.",
+  "Version": "5.0",
+  "Notification": "Fix MKN.",
   "Update": [
     {
       "Name": "toolpvt.jar",
